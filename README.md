@@ -1,1 +1,1 @@
-# online-quiz-application
+Developed using Java, JSP, HTML, CSS, Bootstrap, and SQL, enabling both Admin and Student roles. The frontend was designed with HTML, CSS, and Bootstrap for an interactive user experience, while JSP and Java Servlets handled backend logic and dynamic content rendering. The system used an SQL database for user authentication, quiz management, and result storage. Admins could add or edit questions, manage users, and review quiz submissions, whereas students could register, log in, take quizzes, submit answers, and view results. 
